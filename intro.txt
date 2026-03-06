@@ -1,1 +1,2 @@
 This is my GitHub lab file.
+This line is added from GitHub.
